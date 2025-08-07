@@ -1,0 +1,3 @@
+tests/
+MONGO_URI.env
+node_modules/ 
